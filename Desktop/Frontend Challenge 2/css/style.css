@@ -1,0 +1,96 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+.container {
+  position: absolute;
+  width: 360px;
+  height: 56px;
+  left: 0px;
+  top: 24px;
+  background: #4A4583;
+}
+
+.arrow {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  left: 16px;
+  top: 18px;
+}
+.content{
+  position: absolute;
+  width: 180px;
+  height: 24px;
+  left: 47px;
+  top: 18px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #FFFFFF;
+
+}
+
+.search {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 300px;
+  top: 18px;
+}
+
+.more {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 325px;
+  top: 18px;
+}
+
+body {
+    font-family: Roboto;
+}
+
+tbody>tr>:nth-child(1){
+ color:#000000;
+ text-align: center;
+}
+
+.bus-list {
+  padding-top: 50px;
+  width:360px;
+  font-size: 1em;
+}
+
+td {
+  color: #000000;
+  padding: 12px 10px 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+
+
+.directions {
+	font-size: 10px;
+	padding: 5px 10px 0px 0px;
+  text-align: left;
+  color:#000000;
+
+  }
+
+.frequency {
+	font-size: 16px;
+  background-color: #83D58B;
+  padding-top:3px;
+  text-align: center;
+  color:#ffffff;
+  border-radius: 10px;
+  height: 22px;
+
+}
