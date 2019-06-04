@@ -1,1 +1,1 @@
-# the_pantry_clone
+# Frontend-Challenge-2
