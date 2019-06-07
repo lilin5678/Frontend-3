@@ -86,10 +86,11 @@ body {
   width: 75%;
   flex-direction: column;
   margin-top:13px;
+  margin-left: -80px;
 }
 
 .min {
-  font-size: 14px;
+  font-size: 15px;
   padding-bottom: 0%;
   margin-top: 0px;
   align-items: baseline;
@@ -110,7 +111,7 @@ body {
 
 .destination  {
   display: inline-block;
-  text-align: center;
+  text-align: left;
   font-weight: medium;
   color: #000000;
   margin:  9px 35px 8px 0;
@@ -187,5 +188,5 @@ body {
    position: relative;
    height: 36px;
    margin-top: 15px;
-   margin-left: 3px;
+   margin-left: 12px;
  }
