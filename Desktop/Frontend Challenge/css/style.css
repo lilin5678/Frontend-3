@@ -175,6 +175,23 @@ body {
   background-color: #83D48B;
   border-radius: 10px;
 }
+.Reroute-info{
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: medium;
+  color: #ffffff;
+  width: 25%;
+  vertical-align: text-bottom;
+  margin-bottom: 1%;
+  height: 36px;
+  position: relative;
+  margin-top: 10px;
+  background-color: #FFAA04;
+  border-radius: 10px;
+}
 
  .busnumber {
    font-size: 20px;
